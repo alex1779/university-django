@@ -42,6 +42,7 @@
 - Python 3
 - Django
 - CSS
+- Bootstrap
 
 <details>
   <summary>Client</summary>
